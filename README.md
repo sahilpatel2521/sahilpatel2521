@@ -3,9 +3,9 @@
 
 - 🔭 I’m currently working on **Android**
 
-- 🌱 I’m currently learning **flutter**
+- 🌱 I’m currently learning **Jetpack Compose**
 
-- 💬 Ask me about **Android**
+- 💬 Ask me about **Mobile Application Development**
 
 - 📫 How to reach me **heysahilpatel@gmail.com**
 
