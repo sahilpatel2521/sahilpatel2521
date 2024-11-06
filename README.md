@@ -8,7 +8,7 @@
   <a href="https://www.linkedin.com/in/sahil-patel-b0aa83194/" target="blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue" alt="LinkedIn Connect">
   </a>
-  <a href="https://youtu.be/1ZzlCiQeOXA" target="blank">
+  <a href="https://youtube.com/@sahilpatel932?si=n8RiMYy1GjmddzGI" target="blank">
     <img src="https://img.shields.io/youtube/channel/subscribers/UCzBoNlSp4TMhV4IfU0uiplg?label=YouTube&style=social" alt="YouTube Subscribers">
   </a>
 </p>
